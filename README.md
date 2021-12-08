@@ -1,0 +1,1 @@
+This is an example of a graph rewriting based terrain generator extracted from another project. Graph rewriting is the coolest, it case you were in any doubt. This is one is pretty simple, someday I'll do a project that does something more interesting with this technique.
